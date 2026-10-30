@@ -64,5 +64,157 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Latitude is a company surfaced via the API Evangelist harvest backlog (source: g2-catalog) and added to the network as a stub for full-pipeline profiling.
-- https://latitude.so/
+Latitude provides an AI agent observability and monitoring platform that helps developers track, debug, and improve the performance of AI-powered agents. The service offers real‑time telemetry, tracing, cost analysis, and tool‑call insights across multiple environments. It includes a developer portal, comprehensive documentation, pricing plans, and community resources such as Slack and GitHub integrations, enabling teams to build self‑healing, observable AI agents.
+
+**Areas:** Company · AI · Observability · Monitoring · Platform · Agents
+
+## Latitude on APIs.io
+
+Everything profiled for Latitude is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/latitude-so/](https://apis.io/providers/latitude-so/)** — or go straight to one of the APIs or properties below.
+
+### APIs (25)
+
+- [Latitude Account API](https://apis.io/apis/latitude-so/latitude-so-account-api/) — The Account API from Latitude — 2 operation(s) for account.
+- [Latitude Agent Score API](https://apis.io/apis/latitude-so/latitude-so-agent-score-api/) — The Agent Score API from Latitude — 3 operation(s) for agent score.
+- [Latitude Analytics API](https://apis.io/apis/latitude-so/latitude-so-analytics-api/) — The Analytics API from Latitude — 1 operation(s) for analytics.
+- [Latitude Annotations API](https://apis.io/apis/latitude-so/latitude-so-annotations-api/) — The Annotations API from Latitude — 2 operation(s) for annotations.
+- [Latitude API Keys API](https://apis.io/apis/latitude-so/latitude-so-api-keys-api/) — The API Keys API from Latitude — 2 operation(s) for api keys.
+- [Latitude Datasets API](https://apis.io/apis/latitude-so/latitude-so-datasets-api/) — The Datasets API from Latitude — 10 operation(s) for datasets.
+- [Latitude Experiments API](https://apis.io/apis/latitude-so/latitude-so-experiments-api/) — The Experiments API from Latitude — 2 operation(s) for experiments.
+- [Latitude Health API](https://apis.io/apis/latitude-so/latitude-so-health-api/) — The Health API from Latitude — 1 operation(s) for health.
+- [Latitude Imports API](https://apis.io/apis/latitude-so/latitude-so-imports-api/) — The Imports API from Latitude — 4 operation(s) for imports.
+- [Latitude Incidents API](https://apis.io/apis/latitude-so/latitude-so-incidents-api/) — The Incidents API from Latitude — 2 operation(s) for incidents.
+- [Latitude Members API](https://apis.io/apis/latitude-so/latitude-so-members-api/) — The Members API from Latitude — 2 operation(s) for members.
+- [Latitude Memory API](https://apis.io/apis/latitude-so/latitude-so-memory-api/) — The Memory API from Latitude — 8 operation(s) for memory.
+- [Latitude Monitors API](https://apis.io/apis/latitude-so/latitude-so-monitors-api/) — The Monitors API from Latitude — 6 operation(s) for monitors.
+- [Latitude OAuth Keys API](https://apis.io/apis/latitude-so/latitude-so-oauth-keys-api/) — The OAuth Keys API from Latitude — 2 operation(s) for oauth keys.
+- [Latitude Projects API](https://apis.io/apis/latitude-so/latitude-so-projects-api/) — The Projects API from Latitude — 3 operation(s) for projects.
+- [Latitude Saved Searches API](https://apis.io/apis/latitude-so/latitude-so-saved-searches-api/) — The Saved Searches API from Latitude — 3 operation(s) for saved searches.
+- [Latitude Scores API](https://apis.io/apis/latitude-so/latitude-so-scores-api/) — The Scores API from Latitude — 1 operation(s) for scores.
+- [Latitude Sessions API](https://apis.io/apis/latitude-so/latitude-so-sessions-api/) — The Sessions API from Latitude — 9 operation(s) for sessions.
+- [Latitude Signals API](https://apis.io/apis/latitude-so/latitude-so-signals-api/) — The Signals API from Latitude — 15 operation(s) for signals.
+- [Latitude Spans API](https://apis.io/apis/latitude-so/latitude-so-spans-api/) — The Spans API from Latitude — 1 operation(s) for spans.
+- [Latitude Tools API](https://apis.io/apis/latitude-so/latitude-so-tools-api/) — The Tools API from Latitude — 8 operation(s) for tools.
+- [Latitude Traces API](https://apis.io/apis/latitude-so/latitude-so-traces-api/) — The Traces API from Latitude — 10 operation(s) for traces.
+- [Latitude Usage API](https://apis.io/apis/latitude-so/latitude-so-usage-api/) — The Usage API from Latitude — 1 operation(s) for usage.
+- [Latitude Users API](https://apis.io/apis/latitude-so/latitude-so-users-api/) — The Users API from Latitude — 8 operation(s) for users.
+- [Latitude Well Known API](https://apis.io/apis/latitude-so/latitude-so-well-known-api/) — The Well-known API from Latitude — 1 operation(s) for well-known.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Latitude So Webhooks](https://apis.io/asyncapis/latitude-so/latitude-so-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Latitude So Agentic Access](https://apis.io/agentic-access/latitude-so/latitude-so-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [AnalyticsQuery](https://apis.io/schemas/latitude-so/latitude-so-analytics-query/)
+- [CreateSignalBody](https://apis.io/schemas/latitude-so/latitude-so-create-signal-body/)
+- [SessionDetail](https://apis.io/schemas/latitude-so/latitude-so-session-detail/)
+- [SignalDetail](https://apis.io/schemas/latitude-so/latitude-so-signal-detail/)
+- [SpanDetail](https://apis.io/schemas/latitude-so/latitude-so-span-detail/)
+- [TraceDetail](https://apis.io/schemas/latitude-so/latitude-so-trace-detail/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Latitude So Context](https://apis.io/jsonld/latitude-so/latitude-so-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Latitude API Rules](https://apis.io/rules/latitude-so/latitude-so-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Latitude So Authentication](https://apis.io/security/latitude-so/latitude-so-authentication/)
+- [Latitude So Domain Security](https://apis.io/security/latitude-so/latitude-so-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Latitude So Plans Pricing](https://apis.io/plans/latitude-so/latitude-so-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://latitude.so/)
+- [Documentation](https://docs.latitude.so/)
+- [Getting started](https://docs.latitude.so/getting-started/introduction)
+- [API reference](https://api.latitude.so/docs)
+- [Pricing](https://latitude.so/pricing)
+- [Changelog](https://latitude.so/changelog)
+- [Blog](https://latitude.so/blog)
+- [Terms of service](https://latitude.so/terms)
+- [Privacy policy](https://latitude.so/privacy)
+
+## API Evangelist rating
+
+**Kin Score 62.7** — strong · rubric 0.24.0 · scored 2026-10-18
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 67.8 |
+| Contract governance | 79.1 |
+| Operational transparency | 23.7 |
+| Developer ergonomics | 63.6 |
+| Access clarity | 63.7 |
+
+**Agent readiness 59.6** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/latitude-so/](https://apis.io/providers/latitude-so/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Latitude: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/latitude-so/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
